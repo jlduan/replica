@@ -3,6 +3,6 @@ Sozen, B., Jorgensen, V., Weatherbee, B.A.T., Chen, S., Zhu, M., and Zernicka-Go
 - BioProject Accession: PRJNA738498
 - GEO Accession: GSE178326
 
-[Single-cell transcriptomic analysis](https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41467-021-25853-4/notebooks/analyze.html)
+[Single-cell transcriptomic analysis](https://jlduan.github.io/Replica/s41467-021-25853-4/notebooks/analyze.html)
 
 <br>
