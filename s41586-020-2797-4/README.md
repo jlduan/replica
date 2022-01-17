@@ -3,8 +3,7 @@ Litviňuková, M., Talavera-López, C., Maatz, H., Reichart, D., Worth, C.L., Li
 - BioProject Accession: PRJEB39602
 - GEO Accession: ERP123138
 
-[sc/snucRNA-Seq analysis](https://jlduan.github.io/Replica/s41586-020-2797-4/notebooks/analyze_hca_heart.html)
 
-[Spatial transcriptomic analysis](https://jlduan.github.io/Replica/s41586-020-2797-4/notebooks/analyze_spatial.html)
 
-<br>
+1. [sc/snucRNA-Seq analysis](https://jlduan.github.io/Replica/s41586-020-2797-4/notebooks/analyze_hca_heart.html)
+2. [Spatial transcriptomic analysis](https://jlduan.github.io/Replica/s41586-020-2797-4/notebooks/analyze_spatial.html)

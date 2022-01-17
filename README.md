@@ -7,27 +7,22 @@
 <br>
 
 
-| Title | DOI | Year |
+| Title | Journal| Year |
 | :- | :- | :-: |
-| **[Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells](https://www.nature.com/articles/nsmb.2660)** | [nsmb.2660](https://jlduan.github.io/Replica/nsmb.2660) | 2013 |
-| **[Resetting transcription factor control circuitry toward ground-state pluripotency in human](https://doi.org/10.1016/j.cell.2014.08.029)** | [j.cell.2014.08.029](https://jlduan.github.io/Replica/j.cell.2014.08.029) | 2014 |
-| **[Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos](https://doi.org/10.1016/j.cell.2016.03.023)** | [j.cell.2016.03.023](https://jlduan.github.io/Replica/j.cell.2016.03.023) | 2016 |
-| **[A developmental coordinate of pluripotency among mice, monkeys and humans](https://doi.org/10.1038/nature19096)** | [nature19096](https://jlduan.github.io/Replica/nature19096) | 2016 |
-| **[Reconstituting the transcriptome and DNA methylome landscapes of human implantation](https://www.nature.com/articles/s41586-019-1500-0)** | [s41586-019-1500-0](https://jlduan.github.io/Replica/s41586-019-1500-0) | 2019 |
-| **[Single-cell RNA sequencing reveals regulatory mechanism for trophoblast cell-fate divergence in human peri-implantation conceptuses](https://doi.org/10.1371/journal.pbio.3000187)** | [journal.pbio.3000187](https://jlduan.github.io/Replica/journal.pbio.3000187) | 2019 |
-| **[Dynamics of trophoblast differentiation in peri-implantation–stage human embryos](https://doi.org/10.1073/pnas.1911362116)** | [pnas.1911362116](https://jlduan.github.io/Replica/pnas.1911362116) | 2019 |
-| **[Naïve human pluripotent stem cells respond to Wnt, Nodal and LIF signalling to produce expandable naïve extra-embryonic endoderm](https://doi.org/10.1242/dev.180620)** | [dev.180620](https://jlduan.github.io/Replica/dev.180620) | 2019 |
-| **[Human and mouse single-nucleus transcriptomics reveal TREM2-dependent and TREM2-independent cellular responses in Alzheimer’s disease](https://www.nature.com/articles/s41591-019-0695-9)** | [s41591-019-0695-9](https://jlduan.github.io/Replica/s41591-019-0695-9) | 2020 |
-| **[A developmental landscape of 3D-cultured human pre-gastrulation embryos](https://www.nature.com/articles/s41586-019-1875-y)** | [s41586-019-1875-y](https://jlduan.github.io/Replica/s41586-019-1875-y) | 2019 |
-| **[Derivation of trophoblast stem cells from naïve human pluripotent stem cells](http://doi.org/10.7554/eLife.52504)** | [eLife.52504](https://jlduan.github.io/Replica/eLife.52504) | 2020 |
-| **[Naive Human Embryonic Stem Cells Can Give Rise to Cells with a Trophoblast-like Transcriptome and Methylome](https://doi.org/10.1016/j.stemcr.2020.06.003)** | [j.stemcr.2020.06.003](https://jlduan.github.io/Replica/j.stemcr.2020.06.003) | 2020  |
-| **[Cells of the adult human heart](https://doi.org/10.1038/s41586-020-2797-4)** | [s41586-020-2797-4](https://jlduan.github.io/Replica/s41586-020-2797-4) | 2020 |
-| **[Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://doi.org/10.1038/s41587-020-0739-1)** | [s41587-020-0739-1](https://jlduan.github.io/Replica/s41587-020-0739-1) | 2020 |
-| **[Naive stem cell blastocyst model captures human embryo lineage segregation](https://doi.org/10.1016/j.stem.2021.04.031)** | [s41587-020-0739-1](https://jlduan.github.io/Replica/j.stem.2021.04.031) | 2021 |
-| **[Generation of human blastocyst-like structures from pluripotent stem cells](https://doi.org/10.1038/s41421-021-00316-8)** | [s41421-021-00316-8](https://jlduan.github.io/Replica/s41421-021-00316-8) | 2021 |
-| **[Reconstructing aspects of human embryogenesis with pluripotent stem cells](https://www.nature.com/articles/s41467-021-25853-4)** | [s41467-021-25853-4](https://jlduan.github.io/Replica/s41467-021-25853-4) | 2021 |
-
-
-
-
-<br>
+| **[Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells](https://jlduan.github.io/Replica/nsmb.2660)** | [Nat. Struct. Mol. Biol.](https://www.nature.com/articles/nsmb.2660) | 2013 |
+| **[Resetting transcription factor control circuitry toward ground-state pluripotency in human](https://jlduan.github.io/Replica/j.cell.2014.08.029)** | [Cell](https://doi.org/10.1016/j.cell.2014.08.029) | 2014 |
+| **[Single-cell RNA-Seq reveals lineage and X chromosome dynamics in human preimplantation embryos](https://jlduan.github.io/Replica/j.cell.2016.03.023)** | [Cell](https://doi.org/10.1016/j.cell.2016.03.023) | 2016 |
+| **[A developmental coordinate of pluripotency among mice, monkeys and humans](https://jlduan.github.io/Replica/nature19096)** | [Nature](https://doi.org/10.1038/nature19096) | 2016 |
+| **[Reconstituting the transcriptome and DNA methylome landscapes of human implantation](https://jlduan.github.io/Replica/s41586-019-1500-0)** | [Nature](https://www.nature.com/articles/s41586-019-1500-0) | 2019 |
+| **[Single-cell RNA sequencing reveals regulatory mechanism for trophoblast cell-fate divergence in human peri-implantation conceptuses](https://jlduan.github.io/Replica/journal.pbio.3000187)** | [PLoS Biol.](https://doi.org/10.1371/journal.pbio.3000187) | 2019 |
+| **[Dynamics of trophoblast differentiation in peri-implantation–stage human embryos](https://jlduan.github.io/Replica/pnas.1911362116)** | [PNAS](https://doi.org/10.1073/pnas.1911362116) | 2019 |
+| **[A developmental landscape of 3D-cultured human pre-gastrulation embryos](https://jlduan.github.io/Replica/s41586-019-1875-y)** | [Nature](https://www.nature.com/articles/s41586-019-1875-y) | 2019 |
+| **[Naïve human pluripotent stem cells respond to Wnt, Nodal and LIF signalling to produce expandable naïve extra-embryonic endoderm](https://jlduan.github.io/Replica/dev.180620)** | [Development](https://doi.org/10.1242/dev.180620) | 2019 |
+| **[Human and mouse single-nucleus transcriptomics reveal TREM2-dependent and TREM2-independent cellular responses in Alzheimer’s disease](https://jlduan.github.io/Replica/s41591-019-0695-9)** | [Nat. Med.](https://www.nature.com/articles/s41591-019-0695-9) | 2020 |
+| **[Derivation of trophoblast stem cells from naïve human pluripotent stem cells](https://jlduan.github.io/Replica/eLife.52504)** | [eLife](http://doi.org/10.7554/eLife.52504) | 2020 |
+| **[Naïve human embryonic stem cells can give rise to cells with a trophoblast-like transcriptome and methylome](https://jlduan.github.io/Replica/j.stemcr.2020.06.003)** | [Stem Cell Reports](https://doi.org/10.1016/j.stemcr.2020.06.003) | 2020 |
+| **[Cells of the adult human heart](https://jlduan.github.io/Replica/s41586-020-2797-4)** | [Nature](https://doi.org/10.1038/s41586-020-2797-4) | 2020 |
+| **[Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://jlduan.github.io/Replica/s41587-020-0739-1)** | [Nat. Biotechnol.](https://doi.org/10.1038/s41587-020-0739-1) | 2020 |
+| **[Naive stem cell blastocyst model captures human embryo lineage segregation](https://jlduan.github.io/Replica/j.stem.2021.04.031)** | [Cell Stem Cell](https://doi.org/10.1016/j.stem.2021.04.031) | 2021 |
+| **[Generation of human blastocyst-like structures from pluripotent stem cells](https://jlduan.github.io/Replica/s41421-021-00316-8)** | [Cell Discov.](https://doi.org/10.1038/s41421-021-00316-8) | 2021 |
+| **[Reconstructing aspects of human embryogenesis with pluripotent stem cells](https://jlduan.github.io/Replica/s41467-021-25853-4)** | [Nat. Commun.](https://www.nature.com/articles/s41467-021-25853-4) |2021 |
