@@ -3,6 +3,6 @@ Xiang, L., Yin, Y., Zheng, Y., Ma, Y., Li, Y., Zhao, Z., Guo, J., Ai, Z., Niu, Y
 - BioProject Accession: PRJNA562548
 - GEO Accession: GSE136447
 
-[scRNA-Seq secondary analysis](https://jlduan.github.io/Replica/s41586-019-1875-y/notebooks/analyze.html)
+[scRNA-Seq secondary analysis](https://jlduan.github.io/Replica/s41586-019-1875-y/notebooks/analyze_refactored.html)
 
 <br>
