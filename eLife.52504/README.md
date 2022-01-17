@@ -4,5 +4,3 @@ Dong, C., Beltcheva, M., Gontarz, P., Zhang, B., Popli, P., Fischer, L.A., Khan,
 - GEO Accession: GSE138688
 
 [RNA-Seq analysis](https://jlduan.github.io/Replica/eLife.52504/notebooks/analyze.html)
-
-<br>

@@ -4,5 +4,3 @@ Sozen, B., Jorgensen, V., Weatherbee, B.A.T., Chen, S., Zhu, M., and Zernicka-Go
 - GEO Accession: GSE178326
 
 [Single-cell transcriptomic analysis](https://jlduan.github.io/Replica/s41467-021-25853-4/notebooks/analyze.html)
-
-<br>

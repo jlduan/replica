@@ -4,5 +4,3 @@ West, R.C., Ming, H., Logsdon, D.M., Sun, J., Rajput, S.K., Kile, R.A., Schoolcr
 - GEO Accession: GSE130289
 
 [snucRNA-Seq analysis](https://jlduan.github.io/Replica/pnas.1911362116/notebooks/analyze.html)
-
-<br>

@@ -4,5 +4,3 @@ Yan, L., Yang, M., Guo, H., Yang, L., Wu, J., Li, R., Liu, P., Lian, Y., Zheng, 
 - GEO Accession: GSE36552
 
 [scRNA-Seq analysis](https://jlduan.github.io/Replica/nsmb.2660/notebooks/analyze.html)
-
-<br>

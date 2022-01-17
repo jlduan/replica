@@ -4,5 +4,3 @@ Zhou, F., Wang, R., Yuan, P., Ren, Y., Mao, Y., Li, R., Lian, Y., Li, J., Wen, L
 - GEO Accession: GSE109555
 
 [scRNA-Seq secondary analysis](https://jlduan.github.io/Replica/s41586-019-1500-0/notebooks/analyze.html)
-
-<br>

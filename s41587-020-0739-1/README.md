@@ -3,5 +3,3 @@ Stickels, R.R., Murray, E., Kumar, P., Li, J., Marshall, J.L., Di Bella, D.J., A
 - Data summary can be found [here](https://singlecell.broadinstitute.org/single_cell/study/SCP815/sensitive-spatial-genome-wide-expression-profiling-at-cellular-resolution#study-visualize).
 
 [Spatial transcriptomic visualization](https://jlduan.github.io/Replica/s41587-020-0739-1/notebooks/analyze_spatial.html)
-
-<br>

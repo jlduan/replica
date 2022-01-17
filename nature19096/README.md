@@ -4,5 +4,3 @@ Nakamura, T., Okamoto, I., Sasaki, K., Yabuta, Y., Iwatani, C., Tsuchiya, H., Se
 - GEO Accession: GSE74767
 
 [scRNA-Seq secondary analysis](https://jlduan.github.io/Replica/nature19096/notebooks/analyze.html)
-
-<br>

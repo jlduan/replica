@@ -4,5 +4,3 @@ Cinkornpumin, J.K., Kwon, S.Y., Guo, Y., Hossain, I., Sirois, J., Russett, C.S.,
 - GEO Accession: GSE152101
 
 [RNA-Seq analysis](https://jlduan.github.io/Replica/j.stemcr.2020.06.003/notebooks/analyze.html)
-
-<br>

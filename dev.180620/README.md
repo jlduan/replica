@@ -4,5 +4,3 @@ Linneberg-Agerholm, M., Wong, Y.F., Romero Herrera, J.A., Monteiro, R.S., Anders
 - GEO Accession: GSE138012
 
 [RNA-Seq analysis](https://jlduan.github.io/Replica/dev.180620/notebooks/analyze.html)
-
-<br>

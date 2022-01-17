@@ -4,5 +4,3 @@ Petropoulos, S., Edsgärd, D., Reinius, B., Deng, Q., Panula, S.P., Codeluppi, S
 - ArrayExpress: E-MTAB-3929
 
 [scRNA-Seq secondary analysis](https://jlduan.github.io/Replica/j.cell.2016.03.023/notebooks/analyze.html)
-
-<br>

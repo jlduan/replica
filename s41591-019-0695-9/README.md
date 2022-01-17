@@ -4,5 +4,3 @@ Zhou, Y., Song, W.M., Andhey, P.S., Swain, A., Levy, T., Miller, K.R., Poliani, 
 - GEO Accession: GSE140510
 
 [snucRNA-Seq analysis](https://jlduan.github.io/Replica/s41591-019-0695-9/notebooks/analyze_refactored_ragg.html)
-
-<br>
