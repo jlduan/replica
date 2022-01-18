@@ -1,4 +1,4 @@
-# Replica
+# [Replica](https://jlduan.github.io/Replica/)
 
 <br>
 
@@ -9,11 +9,11 @@
 
 | Title | Journal| Year |
 | :- | :- | :-: |
-| **[Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells](https://jlduan.github.io/Replica/nsmb.2660)** | [Nat. Struct. Mol. Biol.](https://www.nature.com/articles/nsmb.2660) | 2013 |
+| **[Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells](https://jlduan.github.io/Replica/nsmb.2660)** | [Nat. Struct. Mol. Biol.](https://doi.org/10.1038/nsmb.2660) | 2013 |
 | **[Resetting transcription factor control circuitry toward ground-state pluripotency in human](https://jlduan.github.io/Replica/j.cell.2014.08.029)** | [Cell](https://doi.org/10.1016/j.cell.2014.08.029) | 2014 |
 | **[Single-cell RNA-Seq reveals lineage and X chromosome dynamics in human preimplantation embryos](https://jlduan.github.io/Replica/j.cell.2016.03.023)** | [Cell](https://doi.org/10.1016/j.cell.2016.03.023) | 2016 |
 | **[A developmental coordinate of pluripotency among mice, monkeys and humans](https://jlduan.github.io/Replica/nature19096)** | [Nature](https://doi.org/10.1038/nature19096) | 2016 |
-| **[Reconstituting the transcriptome and DNA methylome landscapes of human implantation](https://jlduan.github.io/Replica/s41586-019-1500-0)** | [Nature](https://www.nature.com/articles/s41586-019-1500-0) | 2019 |
+| **[Reconstituting the transcriptome and DNA methylome landscapes of human implantation](https://jlduan.github.io/Replica/s41586-019-1500-0)** | [Nature](https://doi.org/10.1038/s41586-019-1500-0) | 2019 |
 | **[Single-cell RNA sequencing reveals regulatory mechanism for trophoblast cell-fate divergence in human peri-implantation conceptuses](https://jlduan.github.io/Replica/journal.pbio.3000187)** | [PLoS Biol.](https://doi.org/10.1371/journal.pbio.3000187) | 2019 |
 | **[Dynamics of trophoblast differentiation in peri-implantation–stage human embryos](https://jlduan.github.io/Replica/pnas.1911362116)** | [PNAS](https://doi.org/10.1073/pnas.1911362116) | 2019 |
 | **[A developmental landscape of 3D-cultured human pre-gastrulation embryos](https://jlduan.github.io/Replica/s41586-019-1875-y)** | [Nature](https://www.nature.com/articles/s41586-019-1875-y) | 2019 |
@@ -25,4 +25,5 @@
 | **[Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://jlduan.github.io/Replica/s41587-020-0739-1)** | [Nat. Biotechnol.](https://doi.org/10.1038/s41587-020-0739-1) | 2020 |
 | **[Naive stem cell blastocyst model captures human embryo lineage segregation](https://jlduan.github.io/Replica/j.stem.2021.04.031)** | [Cell Stem Cell](https://doi.org/10.1016/j.stem.2021.04.031) | 2021 |
 | **[Generation of human blastocyst-like structures from pluripotent stem cells](https://jlduan.github.io/Replica/s41421-021-00316-8)** | [Cell Discov.](https://doi.org/10.1038/s41421-021-00316-8) | 2021 |
-| **[Reconstructing aspects of human embryogenesis with pluripotent stem cells](https://jlduan.github.io/Replica/s41467-021-25853-4)** | [Nat. Commun.](https://www.nature.com/articles/s41467-021-25853-4) |2021 |
+| **[Reconstructing aspects of human embryogenesis with pluripotent stem cells](https://jlduan.github.io/Replica/s41467-021-25853-4)** | [Nat. Commun.](https://doi.org/10.1038/s41467-021-25853-4) | 2021 |
+| **[Human blastoids model blastocyst development and implantation](https://jlduan.github.io/Replica/s41586-021-04267-8)** | [Nature](https://doi.org/10.1038/s41586-021-04267-8) | 2021 |
