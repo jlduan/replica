@@ -26,4 +26,5 @@
 | **[Naive stem cell blastocyst model captures human embryo lineage segregation](https://jlduan.github.io/Replica/j.stem.2021.04.031)** | [Cell Stem Cell](https://doi.org/10.1016/j.stem.2021.04.031) | 2021 |
 | **[Generation of human blastocyst-like structures from pluripotent stem cells](https://jlduan.github.io/Replica/s41421-021-00316-8)** | [Cell Discov.](https://doi.org/10.1038/s41421-021-00316-8) | 2021 |
 | **[Reconstructing aspects of human embryogenesis with pluripotent stem cells](https://jlduan.github.io/Replica/s41467-021-25853-4)** | [Nat. Commun.](https://doi.org/10.1038/s41467-021-25853-4) | 2021 |
+| **[Single-cell transcriptomic characterization of a gastrulating human embryo](https://jlduan.github.io/Replica/s41586-021-04158-y)** | [Nature](https://doi.org/10.1038/s41586-021-04158-y) | 2021 |
 | **[Human blastoids model blastocyst development and implantation](https://jlduan.github.io/Replica/s41586-021-04267-8)** | [Nature](https://doi.org/10.1038/s41586-021-04267-8) | 2021 |
