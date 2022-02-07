@@ -11,6 +11,7 @@
 | :- | :- | :-: |
 | **[Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells](https://jlduan.github.io/Replica/nsmb.2660)** | [Nat. Struct. Mol. Biol.](https://doi.org/10.1038/nsmb.2660) | 2013 |
 | **[Resetting transcription factor control circuitry toward ground-state pluripotency in human](https://jlduan.github.io/Replica/j.cell.2014.08.029)** | [Cell](https://doi.org/10.1016/j.cell.2014.08.029) | 2014 |
+| **[Defining the three cell lineages of the human blastocyst by single-cell RNA-seq](https://jlduan.github.io/Replica/dev.131235)** | [Development](<https://doi.org/10.1242/dev.123547>) | 2015 |
 | **[Single-cell RNA-Seq reveals lineage and X chromosome dynamics in human preimplantation embryos](https://jlduan.github.io/Replica/j.cell.2016.03.023)** | [Cell](https://doi.org/10.1016/j.cell.2016.03.023) | 2016 |
 | **[A developmental coordinate of pluripotency among mice, monkeys and humans](https://jlduan.github.io/Replica/nature19096)** | [Nature](https://doi.org/10.1038/nature19096) | 2016 |
 | **[Reconstituting the transcriptome and DNA methylome landscapes of human implantation](https://jlduan.github.io/Replica/s41586-019-1500-0)** | [Nature](https://doi.org/10.1038/s41586-019-1500-0) | 2019 |
