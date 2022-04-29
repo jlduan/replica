@@ -3,4 +3,4 @@ Blakeley, P., Fogarty, N.M.E., del Valle, I., Wamaitha, S.E., Hu, T.X., Elder, K
 - BioProject Accession: PRJNA277181
 - GEO Accession: GSE66507
 
-[Single cell transcriptome analysis](https://jlduan.github.io/Replica/dev.131235/notebooks/analyze.html)
+[Single cell transcriptome analysis](https://jlduan.github.io/replica/dev.131235/notebooks/analyze.html)
