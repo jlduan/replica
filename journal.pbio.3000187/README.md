@@ -3,4 +3,4 @@ Lv, B., An, Q., Zeng, Q., Zhang, X., Lu, P., Wang, Y., Zhu, X., Ji, Y., Fan, G.,
 - BioProject Accession: PRJNA516921
 - GEO Accession: GSE125616
 
-[scRNA-Seq secondary analysis](https://jlduan.github.io/Replica/journal.pbio.3000187/notebooks/analyze.html)
+[Single-cell transcriptome analysis](https://jlduan.github.io/Replica/journal.pbio.3000187/notebooks/analyze.html)

@@ -3,4 +3,4 @@ Takashima, Y., Guo, G., Loos, R., Nichols, J., Ficz, G., Krueger, F., Oxley, D.,
 - BioProject Accession: PRJEB7132
 - ArrayExpress Accession: E-MTAB-2857
 
-[RNA-Seq analysis](https://jlduan.github.io/Replica/j.cell.2014.08.029/notebooks/analyze.html)
+[Transcriptome analysis](https://jlduan.github.io/Replica/j.cell.2014.08.029/notebooks/analyze.html)
