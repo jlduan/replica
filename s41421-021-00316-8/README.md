@@ -3,10 +3,10 @@ Fan, Y., Min, Z., Alsolami, S., Ma, Z., Zhang, E., Chen, W., Zhong, K., Pei, W.,
 - BioProject Accession: PRJNA667174
 - GEO Accession: GSE158971
 
-[Single-cell transcriptome analysis](https://jlduan.github.io/Replica/s41421-021-00316-8/notebooks/analyze.html)
+[Single-cell transcriptome analysis](https://jlduan.github.io/replica/s41421-021-00316-8/notebooks/analyze.html)
 
 <br>
 
 History:
 
-[Single-cell transcriptome analysis (2021-09-11)](https://jlduan.github.io/Replica/s41421-021-00316-8/notebooks/analyze_2021-09-11.html)
+[Single-cell transcriptome analysis (2021-09-11)](https://jlduan.github.io/replica/s41421-021-00316-8/notebooks/analyze_2021-09-11.html)

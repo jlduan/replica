@@ -3,4 +3,4 @@ Petropoulos, S., Edsgärd, D., Reinius, B., Deng, Q., Panula, S.P., Codeluppi, S
 - BioProject Accession: PRJEB11202
 - ArrayExpress: E-MTAB-3929
 
-[Single-cell transcriptome analysis](https://jlduan.github.io/Replica/j.cell.2016.03.023/notebooks/analyze.html)
+[Single-cell transcriptome analysis](https://jlduan.github.io/replica/j.cell.2016.03.023/notebooks/analyze.html)

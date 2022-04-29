@@ -3,4 +3,4 @@ Zhou, Y., Song, W.M., Andhey, P.S., Swain, A., Levy, T., Miller, K.R., Poliani, 
 - BioProject Accession: PRJNA590042
 - GEO Accession: GSE140510
 
-[Single-nucleus transcriptome analysis](https://jlduan.github.io/Replica/s41591-019-0695-9/notebooks/analyze_refactored_ragg.html)
+[Single-nucleus transcriptome analysis](https://jlduan.github.io/replica/s41591-019-0695-9/notebooks/analyze_refactored_ragg.html)

@@ -2,10 +2,10 @@ Stickels, R.R., Murray, E., Kumar, P., Li, J., Marshall, J.L., Di Bella, D.J., A
 
 - Data summary can be found [here](https://singlecell.broadinstitute.org/single_cell/study/SCP815/sensitive-spatial-genome-wide-expression-profiling-at-cellular-resolution#study-visualize).
 
-[Spatial transcriptomics analysis](https://jlduan.github.io/Replica/s41587-020-0739-1/notebooks/analyze_spatial.html)
+[Spatial transcriptomics analysis](https://jlduan.github.io/replica/s41587-020-0739-1/notebooks/analyze_spatial.html)
 
 <br>
 
 History:
 
-[Spatial transcriptomics analysis (2021-02-06)](https://jlduan.github.io/Replica/s41586-021-04267-8/notebooks/analyze_spatial_2021-02-06.html)
+[Spatial transcriptomics analysis (2021-02-06)](https://jlduan.github.io/replica/s41586-021-04267-8/notebooks/analyze_spatial_2021-02-06.html)

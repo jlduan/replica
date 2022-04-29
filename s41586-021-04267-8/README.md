@@ -3,10 +3,10 @@ Kagawa, H., Javali, A., Khoei, H.H., Sommer, T.M., Sestini, G., Novatchkova, M.,
 - BioProject Accession: PRJNA737139
 - GEO Accession: GSE177689
 
-[Single-cell transcriptome analysis](https://jlduan.github.io/Replica/s41586-021-04267-8/notebooks/analyze.html)
+[Single-cell transcriptome analysis](https://jlduan.github.io/replica/s41586-021-04267-8/notebooks/analyze.html)
 
 <br>
 
 History:
 
-[Single-cell transcriptome analysis (2022-01-18)](https://jlduan.github.io/Replica/s41586-021-04267-8/notebooks/analyze_2022-01-18.html)
+[Single-cell transcriptome analysis (2022-01-18)](https://jlduan.github.io/replica/s41586-021-04267-8/notebooks/analyze_2022-01-18.html)

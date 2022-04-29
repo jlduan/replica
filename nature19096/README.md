@@ -3,4 +3,4 @@ Nakamura, T., Okamoto, I., Sasaki, K., Yabuta, Y., Iwatani, C., Tsuchiya, H., Se
 - BioProject Accession: PRJNA301445
 - GEO Accession: GSE74767
 
-[Single-cell transcriptome analysis](<https://jlduan.github.io/Replica/nature19096/notebooks/analyze.html>)
+[Single-cell transcriptome analysis](<https://jlduan.github.io/replica/nature19096/notebooks/analyze.html>)

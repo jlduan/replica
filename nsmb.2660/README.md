@@ -3,4 +3,4 @@ Yan, L., Yang, M., Guo, H., Yang, L., Wu, J., Li, R., Liu, P., Lian, Y., Zheng, 
 - BioProject Accession: PRJNA153427
 - GEO Accession: GSE36552
 
-[Single-cell transcriptome analysis](https://jlduan.github.io/Replica/nsmb.2660/notebooks/analyze.html)
+[Single-cell transcriptome analysis](https://jlduan.github.io/replica/nsmb.2660/notebooks/analyze.html)
