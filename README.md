@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874531.svg)](https://doi.org/10.5281/zenodo.5874531)
+# [replica](https://jlduan.github.io/replica/)
 
-# [`replica`](https://jlduan.github.io/replica/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874531.svg)](https://doi.org/10.5281/zenodo.5874531)
 
 <br>
 
