@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Replica
+title: replica
 abstract: 紙上得來終覺淺，絕知此事要躬行
 authors:
   - family-names: Duan
@@ -7,4 +7,5 @@ authors:
     orcid: "https://orcid.org/0000-0003-4086-7461"
 license:
   - GPL-3.0
-repository-code: "https://github.com/jlduan/Replica"
+repository-code: "https://github.com/jlduan/replica"
+doi: "10.5281/zenodo.5874531"
