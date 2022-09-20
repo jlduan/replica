@@ -8,4 +8,4 @@ Stickels, R.R., Murray, E., Kumar, P., Li, J., Marshall, J.L., Di Bella, D.J., A
 
 History:
 
-[Spatial transcriptomics analysis (2021-02-06)](https://jlduan.github.io/replica/s41586-021-04267-8/notebooks/analyze_spatial_2021-02-06.html)
+[Spatial transcriptomics analysis (2021-02-06)](https://jlduan.github.io/replica/s41587-020-0739-1/notebooks/analyze_spatial_2021-02-06.html)
